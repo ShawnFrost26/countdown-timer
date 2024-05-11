@@ -1,0 +1,19 @@
+div.timer-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+div.box-timer {
+    border: 2px solid white;
+    width: 150px;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1.timer, h4.timer{
+  margin: 0px;
+}
